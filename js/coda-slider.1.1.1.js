@@ -1,17 +1,3 @@
-/*
-	jQuery Coda-Slider v1.1 - http://www.ndoherty.com/coda-slider
-	
-	Copyright (c) 2007 Niall Doherty
-	
-	Inspired by the clever folks at http://www.panic.com/coda
-	Many thanks to Gian Carlo Mingati. Coda-Slider is a heavily modified version of his slideViewer, which can be found at  http://www.gcmingati.net/wordpress/wp-content/lab/jquery/imagestrip/imageslide-plugin.html
-	
-	Requirements:
-	-  jQuery 1.2 ... available via  http://www.jquery.com
-	-  jQuery easing plugin (1.2) ... available via  http://gsgd.co.uk/sandbox/jquery/easing/
-	- jQuery easing compatability plugin ... available via  http://gsgd.co.uk/sandbox/jquery/easing/
-	- CSS included in index.html
-*/
 
 jQuery(function(){
 	jQuery("div.csw").prepend("<p class='loading'>Loading...<br /><img src='images/ajax-loader.gif' alt='loading...'/ ></p>");
